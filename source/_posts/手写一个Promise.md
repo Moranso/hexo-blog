@@ -1,3 +1,5 @@
+## 手写一个promise
+
 ```
 function Promis(exector) {
   let _this = this
